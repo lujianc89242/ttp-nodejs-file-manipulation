@@ -1,0 +1,56 @@
+[{
+  "id": 1,
+  "first_name": "Jessica",
+  "last_name": "Gepheart",
+  "email": "jgepheart0@earthlink.net",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "first_name": "Terri",
+  "last_name": "Plowright",
+  "email": "tplowright1@newsvine.com",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "first_name": "Anetta",
+  "last_name": "Beckerleg",
+  "email": "abeckerleg2@hibu.com",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "first_name": "Farlee",
+  "last_name": "Jodkowski",
+  "email": "fjodkowski3@earthlink.net",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "first_name": "Coralyn",
+  "last_name": "McVey",
+  "email": "cmcvey4@icq.com",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "first_name": "Chaddie",
+  "last_name": "McGowan",
+  "email": "cmcgowan5@dell.com",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "first_name": "Charlotta",
+  "last_name": "Janusz",
+  "email": "cjanusz6@mapy.cz",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "first_name": "Broderic",
+  "last_name": "Lovat",
+  "email": "blovat7@shareasale.com",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "first_name": "Miner",
+  "last_name": "McClarence",
+  "email": "mmcclarence8@netscape.com",
+  "gender": "Male"
+}
+]
